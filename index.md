@@ -1,5 +1,5 @@
 ---
-title: "This is Nico's website"
+title: "Welcome to Nico's Website"
 ---
 
 Full Name: Nicholas Vinco
