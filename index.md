@@ -1,6 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Nico's website"
 ---
 
-I'm glad you are here. I plan to talk about ...
-stuff
+Full Name: Nicholas Vinco
