@@ -1,5 +1,5 @@
 ---
-# This is Nico's website
+title: "This is Nico's website"
 ---
 
 Full Name: Nicholas Vinco
