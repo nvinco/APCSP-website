@@ -1,5 +1,5 @@
 ---
-title: "Brag Sheet"
+title: "Brag Sheet 2021"
 ---
 * **Extracurriculars:** I am a member of East Brunswick FIRST Inc. We operate a robotics team representing East Brunswick known as Astraea Robotics. As a member of the non-technical subteam, I write grants and and help organize outreach events to spread STEM throughout the community. We also apply for the prestigious FIRST Chairman's Award. For the 2021-2022 season, I have a leadership position as the Design Lead for the non-technical subteam. I am also Vice President of EBHS's Anime Club, as well as a member of French Honors Society and Future Business Leaders of America (FBLA).
 * **Academics:** On my SAT, I managed to get a score of 1510 on my first attempt in December 2020. At Rutgers Model Congress in the 2018-2019 school year, I won the award for Most Improved Delegate for my committee. I received a Letter of Commendation for the PSAT from the National Merit Scholarship Program in 2022.
